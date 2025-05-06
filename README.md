@@ -1,4 +1,4 @@
-# AI-Powered Cloud-Native Threat Detector
+# CloudGuardian AI: Cloud-Native Threat Detection System
 
 **Version:** 1.0
 **Date:** May 3, 2025
@@ -109,7 +109,7 @@ This project implements an AI/ML-based threat detection system for cloud environ
 
 ## 7. Usage Workflow
 
-Run these commands from the project root directory (`/Users/rohitraj/Desktop/project 1`).
+Run these commands from the project root directory.
 
 1.  **Generate Sample Logs:** (Creates labeled data in `data/raw_logs/`)
     ```bash
