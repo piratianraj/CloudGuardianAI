@@ -1,0 +1,37 @@
+# Core Data Science & ML Libraries
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+joblib==1.2.0
+
+# ML Frameworks
+tensorflow==2.12.0  # For Autoencoder model
+xgboost==1.7.5  # For supervised classification
+
+# Graph Analysis
+networkx==3.1  # For graph-based analysis
+# PyTorch Geometric (uncomment when implementing GNNs)
+# torch==2.0.1
+# torch-geometric==2.3.1
+
+# Visualization
+streamlit==1.22.0  # For dashboard
+plotly==5.14.1  # For interactive plots
+matplotlib==3.7.1  # For static plots
+seaborn==0.12.2  # For statistical visualizations
+
+# Cloud Interaction
+boto3==1.26.135  # AWS SDK
+
+# Data Generation & Simulation
+faker==18.9.0  # For generating synthetic data
+
+# Utilities
+python-dateutil==2.8.2  # For date handling
+pytz==2023.3  # For timezone support
+
+# Future Considerations (commented until needed)
+# pyspark==3.4.0  # For large-scale data processing
+# python-dotenv==1.0.0  # For managing credentials
+# requests==2.30.0  # For API interactions
+# lightgbm==3.3.5  # Alternative to XGBoost

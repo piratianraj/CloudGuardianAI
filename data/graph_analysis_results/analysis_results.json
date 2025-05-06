@@ -1,0 +1,12 @@
+{
+  "graph_stats": {
+    "num_nodes": 1396,
+    "num_edges": 1392,
+    "density": 0.0007147918784853807,
+    "is_connected": false
+  },
+  "algorithm_anomalies": {
+    "high_betweenness": [],
+    "high_in_degree": []
+  }
+}
